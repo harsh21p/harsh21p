@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshad</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-<a href="https://drive.google.com/file/d/1DmC1ofvL1CdLUtvCLvs7p2lkBIwqGR6Q/view?usp=sharing">View my Resume 📝</a>
+<a href="https://drive.google.com/file/d/1WutkqBWSqLhyJbyx9kbm1UpXNUNB2KsM/view?usp=sharing">View my Resume 📝</a>
 
 🧰 Here is what I'm working on!
 
