@@ -5,11 +5,13 @@
 
 🧰 Here is what I'm working on!
 
-- 🔭 I’m currently working on [Android full-stack application that manages a robotic lower limb orthosis.](https://github.com/harsh21p/Forhealth-Android-Application)
+🚀 Journey towards java full stack developer [Java Spring, ReactJs, Hibernate, AWS](https://github.com/harsh21p/Great-Learning.git)
+
+- 🔭 Building robotic assistive technology [Android full-stack application that manages a robotic lower limb orthosis.](https://github.com/harsh21p/Forhealth-Android-Application)
 
 - 🤔 What is my highest qualification? - Bachelor's of Technology in Bioengineering with concentration in computer programming!
 
-- 🌱 I’m currently learning **DSA (JAVA)**
+- 🌱 I’m currently learning **React native (Android)**
 
 - 📫 How to reach me **pachoreharshad21@gmail.com**
 
