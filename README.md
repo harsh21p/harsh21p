@@ -5,11 +5,13 @@
 
 🧰 Here is what I'm working on!
 
-🚀 Journey towards java full stack developer [Java Spring, ReactJs, Hibernate, AWS](https://github.com/harsh21p/Great-Learning.git)
+- 🚀 Journey towards java full stack developer [Java Spring, ReactJs, Hibernate, AWS](https://github.com/harsh21p/Great-Learning.git)
 
 - 🔭 Building robotic assistive technology [Android full-stack application that manages a robotic lower limb orthosis.](https://github.com/harsh21p/Forhealth-Android-Application)
 
 - 🤔 What is my highest qualification? - Bachelor's of Technology in Bioengineering with concentration in computer programming!
+
+- 🏅 Certified ethical hacker by EC-Council
 
 - 🌱 I’m currently learning **React native (Android)**
 
@@ -17,9 +19,9 @@
 
 - ⚡ Fun fact **I'm a polyglot, including English, Hindi and Marathi.**
 
--🏕️ In my free time I love the outdoors, being active, as well as connecting with friends and family.
+- 🏕️ In my free time I love the outdoors, being active, as well as connecting with friends and family.
 
--☕️ Always up for coffee if you're around!
+- ☕️ Always up for coffee if you're around!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
