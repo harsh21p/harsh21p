@@ -10,7 +10,7 @@ I am currently pursuing a Master of Science in Computing at the Dublin City Univ
 
 <a href="https://www.linkedin.com/in/harshad-pachore-4437271a1" target="_blank" rel="noreferrer">View my Resume 📝</a>
 
-Technical skills: Java, Python, React Native, React.js, Spring Boot, MySQL, MongoDB, Firebase, REST API, AWS, Docker, Linux
+Technical skills: Java, Kotlin, Javascript, Typescript, React, Spring Boot, MySQL, Figma, REST API, Postman, Docker, Linux, Git
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh21p&label=Profile%20views&color=0e75b6&style=flat" alt="harshadpachore" /> </p>
 
