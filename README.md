@@ -8,7 +8,7 @@
 ## About Me
 I am currently pursuing a Master of Science in Computing at the Dublin City University, with a focus on full-stack development and backend technologies. My experience spans both frontend development using React Native, React.js and backend systems using Spring Boot. I specialize in building efficient, scalable applications with a strong emphasis on security and performance optimization.
 
-<a href="https://drive.google.com/file/d/1Yd9NAae5VVeSKPD2HsINUguG1BMMzfKa/view?usp=sharing" target="_blank" rel="noreferrer">View my Resume 📝</a>
+<a href="https://www.linkedin.com/in/harshad-pachore-4437271a1" target="_blank" rel="noreferrer">View my Resume 📝</a>
 
 Technical skills: Java, Python, React Native, React.js, Spring Boot, MySQL, MongoDB, Firebase, REST API, AWS, Docker, Linux
 
