@@ -14,7 +14,7 @@
 
 I am a **Software Development Engineer** with **3+ years of professional experience** building **enterprise-grade, scalable mobile applications**.
 
-I previously worked as a **Software Engineer at Vitalograph Ltd.**, a global medical device company, where I spent **3 months** contributing to Android feature development in a **regulated healthcare environment**. My work involved applying clean architecture principles, secure data handling practices, BLE integrations, and performance-focused mobile engineering.
+I previously worked as a **Software Engineer at Vitalograph Ltd.**, a global medical device company, where I contributed to Android feature development in a **regulated healthcare environment**. My work involved applying clean architecture principles, secure data handling practices, BLE integrations, and performance-focused mobile engineering.
 
 Before that, I worked at **MOURI Tech**, delivering **large-scale enterprise Android applications** for global clients. I collaborated with distributed teams and contributed to designing maintainable, testable, and production-ready mobile solutions.
 
