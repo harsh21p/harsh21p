@@ -4,11 +4,11 @@
 
 <!-- Typing effect -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=35&duration=3000&pause=1000&color=A4E3F8&center=true&vCenter=true&width=1000&height=40&lines=Hi%2C+I'm+Harshad+Pachore;Kotlin+%26+Java+Mobile+Developer;React+Native+%7C+Android+%7C+Backend;3%2B+Years+of+Professional+Experience" alt="Typing SVG" />
-</h1>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=30&duration=3000&pause=1000&color=A4E3F8&center=true&vCenter=true&width=1000&height=40&lines=Hi%2C+I'm+Harshad+Pachore;Kotlin+%26+Java+Mobile+Developer;React+Native+%7C+Android+%7C+Java+Spring+Boot;3%2B+Years+of+Professional+Experience" alt="Typing SVG" />
+</h2>
 
----
+
 
 ## 👨‍💻 About Me
 
