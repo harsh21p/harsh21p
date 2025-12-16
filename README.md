@@ -18,7 +18,7 @@ I previously worked as a **Software Engineer at Vitalograph Ltd.**, a global med
 
 Before that, I worked at **MOURI Tech**, delivering **large-scale enterprise Android applications** for global clients. I collaborated with distributed teams and contributed to designing maintainable, testable, and production-ready mobile solutions.
 
-Alongside my professional experience, I am currently pursuing a **Master of Science in Computing (Secure Software Engineering) at Dublin City University**, strengthening my expertise in **secure programming, concurrent systems, network security, and cryptography**. I hold a **Bachelor of Technology in Bioengineering from MIT Art, Design and Technology University, Pune**, graduating with a **CGPA of 7.5**.
+Alongside my professional experience, I have completed a **Master of Science in Computing (Secure Software Engineering) from Dublin City University**, it strengthened my expertise in **secure programming, concurrent systems, network security, and cryptography**. I hold a **Bachelor of Technology in Bioengineering from MIT Art, Design and Technology University, Pune**, graduated with a **CGPA of 7.5**.
 
 I specialize in **Android development using Kotlin and Java**, as well as **cross-platform mobile development with React Native**. My engineering approach emphasizes **SOLID principles, Clean Architecture**, and proven architectural patterns such as **MVC, MVP, MVVM, and MVI**.
 
